@@ -1,5 +1,5 @@
 # Permohonan-Surat-Keterangan-Aktif-Kuliah
-Projek PWEB Muhammad Arrasyid(242027) dan Nurhazizah Welyazhari(242039)
+Projek PWEB Muhammad Arrasyid(242027) dan Nurhazizah Welyazhari(242039).
 Readme.md digunakan untuk melaporkan progress dan pembagian tugas kami.
 Proyek ini merupakan pembuatan sistem untuk permohonan surat keterangan aktif kuliah.
 Pembagian Tugas untuk minggu 9. Rasyid membuat BPMN dan Hazizah membuat fitur fungsional berada pada folder Minggu 9
